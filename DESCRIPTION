@@ -1,0 +1,6 @@
+Package: shiny.app.design
+Type: Book
+Title: A documentation repository to keep track of my progress working through creating a custom shiny bootstrap theme and application framework.
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown
