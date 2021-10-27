@@ -17,4 +17,5 @@ libs/
 
 # ignore all html files except:
 !**/mathjax_header.html
-# R and Rstudio specific files
+# include bib files
+!*.bib
