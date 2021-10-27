@@ -4,3 +4,5 @@ Title: A documentation repository to keep track of my progress working through c
 Version: 0.0.1
 Imports: bookdown
 Remotes: rstudio/bookdown
+URL: https://github.com/bmoretz/shiny.app.design
+BugReports: https://github.com/bmoretz/shiny.app.design/issues
